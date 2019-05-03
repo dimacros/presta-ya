@@ -1,0 +1,5 @@
+/vendor
+/.vscode
+Homestead.json
+Homestead.yaml
+.env
